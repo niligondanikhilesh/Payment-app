@@ -4,7 +4,7 @@ metadata:
   name: payment-config
 data:
   DB_HOST: "postgres"
-  DB_USERNAME: "admin"
+  DB_USER: "admin"
   REDIS_HOST: "redis"
   DB_NAME: "payquick"
   APP_ENV: "production"

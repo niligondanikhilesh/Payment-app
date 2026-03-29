@@ -1,5 +1,5 @@
 apiVersion: v2
-name: helm-chart
+name: PayQuick
 description: Payment API with microservices
 
 # A chart can be either an 'application' or a 'library' chart.
