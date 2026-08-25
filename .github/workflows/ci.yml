@@ -30,7 +30,7 @@ jobs:
 
     steps:
       - name: checkout code
-        uses: actions/checkout@4
+        uses: actions/checkout@v4
 
       - name: build Docker image
         run: docker build -t payquick:scan .
